@@ -10,7 +10,7 @@ import java.sql.Types;
 /**
  * @author Guillaume COLLET
  */
-public class GreetTheDepartment {
+public class GreetTheDepartment_in_out_param {
 
     public static void main(String[] args) throws Exception {
 

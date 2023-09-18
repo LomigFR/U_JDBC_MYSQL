@@ -11,7 +11,7 @@ import java.sql.Statement;
 /**
  * @author Guillaume COLLET
  */
-public class IncreaseSalariesForDepartment {
+public class IncreaseSalariesForDepartment_in_param {
 
     public static void main(String[] args) throws Exception {
 

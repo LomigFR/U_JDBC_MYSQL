@@ -1,4 +1,4 @@
-package com.udemy.jdbc;
+package com.udemy.jdbc.basics;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
